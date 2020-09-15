@@ -23,7 +23,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
-                       "key": 1
+                       "key": 2
 				},
 		/*=================================================================================*/
 		{
@@ -61,7 +61,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://youtu.be/_gbFK4yiue8",
-                       "key": 2
+                       "key": 1
 				},
 		/*=================================================================================*/
 		{
