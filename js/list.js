@@ -23,7 +23,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=WiC5ICawsjk",
-                       "key": 2
+                       "key": 1
 				},
 		/*=================================================================================*/
 		{
@@ -42,7 +42,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=uJSw4LvyE0g",
-                       "key": 0
+                       "key": 3
 				},
 		/*=================================================================================*/
 		{
@@ -61,7 +61,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://youtu.be/_gbFK4yiue8",
-                       "key": 1
+                       "key": 0
 				},
 		/*=================================================================================*/
 		{
@@ -92,7 +92,7 @@ const d = {
                        "pass": "Free to copy",
                        "percentToQualify": 100,
                        "verificationVid": "https://www.youtube.com/watch?v=vMfP5uRdwcM",
-                       "key": 3
+                       "key": 2
                 },
 		/*=================================================================================*/
 		{
