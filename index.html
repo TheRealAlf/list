@@ -2,24 +2,31 @@
 <html>
 
 <head>
-    <title>XGDPS Demons List</title>
-    <link href="//fonts.googleapis.com/css?family=Mukta+Mahee:200,400,700" rel="stylesheet">
-    <link href="css/stylesheet.css" type="text/css" rel="stylesheet">
-    <link rel="shortcut icon" href="https://i.imgur.com/Z8ECnmr.png" type="image/x-icon">
-    <meta name="description" content="XGDPS DEMONS LIST.">
-    <meta name="viewport" content="user-scalable=no">
-    <meta charset="UTF-8">
+	<title>XGDPS Demons List</title>
+	<link href="//fonts.googleapis.com/css?family=Mukta+Mahee:200,400,700" rel="stylesheet">
+	<link href="css/stylesheet-main.css" type="text/css" rel="stylesheet">
+	<link rel="shortcut icon" href="https://i.imgur.com/Z8ECnmr.png"
+	 type="image/x-icon">
+  <meta id="meta-title" property="og:title" content="XGDPS Demons List">
+	<meta id="meta-desc" property="og:description" content="Home of the Official XGDPS Demons list.">
+	<meta id="meta-image" name="og:image" itemprop="image" content="https://i.imgur.com/Z8ECnmr.png">
+	<meta name="viewport" content="user-scalable=no">
+	<meta charset="UTF-8">
 </head>
 
 <body>
-    <script type='text/javascript' src="js/jquery-3.2.1.min.js"></script>
-    <script type='text/javascript' src="js/sweetalert.min.js"></script>
-    <script type='text/javascript' src="js/list.js"></script>
-    <script type='text/javascript' src="js/userData.js"></script>
-    <cover-all id="hi">
-        <header id="dl-header">
-            <div id="sitename"><strong>XGDPS DEMONS LIST </strong><small><em id="version-node"></em></small></div>
-            <div id="pc-link"><a href="https://discord.gg/GkcEchu"><em><strong>Offical Discord</strong></a></em></div>
+	<script type='text/javascript' src="js/jquery-3.2.1.min.js">
+	</script>
+	<script type='text/javascript' src="js/sweetalert.min.js">
+	</script>
+	<script type='text/javascript' src="js/list.js">
+	</script>
+	<script type='text/javascript' src="js/userData.js">
+	</script>
+	<cover-all id="hi">
+		<header id="dl-header">
+			<div id="sitename"><strong>XGDPS DEMONS LIST </strong><small><em id="version-node"></em></small></div>
+            <div id="pc-link"><a href="https://discord.gg/GkcEchu"><em><strong>Official Discord</strong></a></em></div>
         </header>
         <div id="list">
         </div>
@@ -55,43 +62,42 @@
         </div>
         <div id="additional-information">
             <div id="inner-right-info">
-                <div><strong>Do you have a record to upload? Was your record typed incorrectly or needs to be updated? <u><a target="_blank" href="https://forms.gle/JR55rvmrLpbBY4Xz7">Request your record!</a></u></strong></div>
+                <div><strong>Do you have a record to submit? Was your record typed incorrectly or does it need updating? <u><a target="_blank" href="https://forms.gle/TvDr8tbGk6Hh9ZsP9">Submit your record!</a></u></strong></div>
                 <br>
                 <div>
-                    
+                <div>    
                     <br><br>
-                    You can apply for a record entry if you meet the following requirements:
+                    You can submit a record if you meet the following requirements:
                     <ul>
-                        <li>Achieved record without using hacks (However, FPS Bypass is available.)</li>
+                        <li>Achieved the record without using hacks (however, FPS bypass is available)</li>
                         <li>Have achieved recordings using game maps that are not different from the original</li>
                         <li>Do not use secret routes or bug routes</li>
                         <li>Do not use easy modes, only original level</li>
-                    </ul><br><br>
-					Credit to the GD Shitty Demons List for the template for this website <u><a target="_blank" href="discord.gg/shittylist">Their Discord Server</a></u></strong></div></li>
-					<br><br>
-                    &copy; XGDPS DEMONS LIST
+                    </ul><br>
+                    <br>
+                    Credit to the GD Shitty List for the template for this website <a href="discord.gg/shittylist">Their Discord Server</a>
                 </div>
             </div>
             <hr>
             <div id="user-rank-info">
                 <style type='text/css'>
                 A:link {
-                    color: white !important;
+                    color: black !important;
                     text-decoration: none;
                 }
                 /* 아직 방문하지 않은경우 */
                 A:visited {
-                    color: white !important;
+                    color: black !important;
                     text-decoration: none;
                 }
                 /* 한번 이상 방문한 링크 처리 */
                 A:active {
-                    color: white !important;
+                    color: black !important;
                     text-decoration: none;
                 }
                 /* 마우스로 클릭하는 순간 */
                 A:hover {
-                    color: rgba(74, 0, 0,) !important;
+                    color: rgba(0, 0, 0, 0.5) !important;
                     text-decoration: none;
                 }
                 /* 마우스 링크 위 올려 놓았을때 */
@@ -121,10 +127,10 @@
     </script>
     <script name="userpoint" type="text/javascript">
     function getPoint(rank) {
-        if (rank > 100) {
+        if (rank > 150) {
             return roundNumber(15, 3);
         } else {
-            return roundNumber((25 / Math.sqrt(((rank - 1) / 12.5) + 0.444444)) - 12.5, 3);
+            return roundNumber((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50, 3);
         }
     }
     function roundNumber(num, scale) {
@@ -142,17 +148,17 @@
     function getUserPoint(rank, percent, cutline, hz) {
         var hzpoint = 0.0;
         if (hz == null) {
-            hzpoint = 1;
+            hzpoint = 0;
         } else if (hz == "Mobile") {
-            hzpoint = 0.5;
+            hzpoint = 0;
         } else {
             var hzInt = parseInt(hz.replace("Bypass", "").replace("hz", "").replace("bypass", "").replace("Hz", "").replace("HZ", ""));
             if (hzInt >= 110) {
                 hzpoint = 0;
             } else if (hzInt >= 70) {
-                hzpoint = 0.2;
+                hzpoint = 0;
             } else {
-                hzpoint = 0.3;
+                hzpoint = 0;
             }
         }
         var point_rank = 0;
@@ -162,10 +168,10 @@
             point_rank = rank;
         }
         hzpoint = 1 + (hzpoint * ((50-point_rank)/50));
-        if (rank > 100) {
+        if (rank > 150) {
             return 0;
         } else {
-            var score = roundNumber((((25 / Math.sqrt(((rank - 1) / 12.5) + 0.444444)) - 12.5) * hzpoint) * ((percent - (cutline - 1)) / (100 - (cutline - 1))), 3);
+            var score = roundNumber((((100 / Math.sqrt(((rank - 1) / 50) + 0.444444)) - 50) * hzpoint) * ((percent - (cutline - 1)) / (100 - (cutline - 1))), 3);
             if (percent != 100) {
                 return roundNumber(score - (score / 3), 3);
             } else {
@@ -245,12 +251,12 @@
         var arank = 0;
         var brank = 0;
         if (a.key == null) {
-            arank = 100 + (legacy_count - a.legacyKey);
+            arank = 150 + (legacy_count - a.legacyKey);
         } else {
             arank = (a.key) + 1;
         }
         if (b.key == null) {
-            brank = 100 + (legacy_count - b.legacyKey);
+            brank = 150 + (legacy_count - b.legacyKey);
         } else {
             brank = (b.key) + 1;
         }
@@ -285,7 +291,7 @@
             }
             var rank = 0;
             if (entry.key == null) {
-                rank = 50 + (legacy_count - entry.legacyKey);
+                rank = 150 + (legacy_count - entry.legacyKey);
             } else {
                 rank = (entry.key) + 1;
             }
@@ -297,7 +303,7 @@
                     hacked = " <span class='p-hacked'>POSSIBLY HACKED</span>";
                 }
             }
-            $("#levelname").html((rank > 50 ? `` : `#` + rank + ` `) + entry.name + hacked);
+            $("#levelname").html((rank > 150 ? `` : `#` + rank + ` `) + entry.name + hacked);
             var author = entry.author;
             var final_author;
             if (author.includes(' more ')) {
