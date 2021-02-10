@@ -78,6 +78,12 @@ const d = {
 			"percent": 100,
 			"hz": "144hz"
 		},
+		{
+			"user": "ItzUtopiastyles",
+			"link": "https://youtu.be/RwhXVjSok4Y",
+			"percent": 100,
+			"hz": "144hz"
+		},
 			],
 			"name": "Bruh Voretechks",
 			"author": "ItzUtopiastyles",
@@ -469,6 +475,13 @@ const d = {
 	 "percent": 100,
 	 "hz": "144hz"
  },
+ {
+	 "user": "nSlayer",
+	 "link": "https://www.youtube.com/watch?v=R7mDSfuOxU0",
+	 "percent": 100,
+	 "hz": "75hz"
+ },
+
 
 	],
 	"name": "Front Off Lead",
@@ -1119,6 +1132,12 @@ const d = {
 	"percent": 100,
 	"hz": "144hz"
 },
+{
+	"user": "Cnek",
+	"link": "hhttps://youtu.be/6-viSGkqB5k",
+	"percent": 100,
+	"hz": "144hz"
+},
 	],
 	"name": "RAXE",
 	"author": "rBlexood",
@@ -1358,7 +1377,7 @@ const d = {
  "user": "Cnek",
  "link": "https://www.youtube.com/watch?v=77urIBJvQqw&feature=youtu.be",
  "percent": 100,
- "hz": "60hz"
+ "hz": "144hz"
 },
 {
  "user": "monkaW",
