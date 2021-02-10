@@ -1,7 +1,3 @@
-# XGDPS Demons List
-
-
-
 # XGDPS Demons List Guidelines & Information
 
 Welcome to the Information and Guidelines page
@@ -14,7 +10,7 @@ Note most, if not all of current guidelines and documentation are directly from 
 
 
 
-### Currently you are entering Section A-1 (Submissions & Info)
+## Currently you are entering Section A-1 (Submissions & Info)
 
 Submitted records can correspond to a player completing a level or achieving progress above its minimum percentage requirement. The minimum requirement for a given list demon can be found in that level's page on the site. 
 
@@ -104,9 +100,9 @@ Now lets talk about requirements for getting your record on the list.
    
 ### Currently you are entering Section B-2 (Loopholes & Guideline Updates)
 
-    -Although these guidelines aim to cover a wide variety of aspects to the Demon List, these rules are not necessarily exhaustive and may require re-wording in the future. Any player that attempts to evade these guidelines via a loophole in the wording of any given rule will be subject to the same punishment as if that rule was broken.
+    - Although these guidelines aim to cover a wide variety of aspects to the Demon List, these rules are not necessarily exhaustive and may require re-wording in the future. Any player that attempts to evade these guidelines via a loophole in the wording of any given rule will be subject to the same punishment as if that rule was broken.
 
-    -Over time, we are likely to add new guidelines detailing the criteria that a record must meet to qualify for the list. However, some records may not fit the current submission guidelines because they were still acceptable at the time of submission. However, the list team will almost never retroactively reject old records following a guidelines update, because it would not be fair to the record holders who followed the guidelines in place at the time.
+    - Over time, we are likely to add new guidelines detailing the criteria that a record must meet to qualify for the list. However, some records may not fit the current submission guidelines because they were still acceptable at the time of submission. However, the list team will almost never retroactively reject old records following a guidelines update, because it would not be fair to the record holders who followed the guidelines in place at the time.
 
  
 
@@ -114,4 +110,3 @@ Now lets talk about requirements for getting your record on the list.
 
 
    
-
