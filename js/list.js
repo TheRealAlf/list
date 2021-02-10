@@ -503,12 +503,6 @@ const d = {
 	"hz": "60hz"
 },
 {
-	"user": " ",
-	"link": " ",
-	"percent": 100,
-	"hz": "144hz"
-},
-{
  "user": "Sledgehammer ",
  "link": "https://www.youtube.com/watch?v=MutZ5721arM&feature=youtu.be",
  "percent": 100,
