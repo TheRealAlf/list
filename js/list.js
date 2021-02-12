@@ -36,7 +36,7 @@ const d = {
 		},
 			],
 			"name": "Kronos",
-			"author": "Yosem",
+			"author": "Yosem [Burhman]",
 			"more": "none",
 			"id": 30311,
 			"pass": "Free to copy",
@@ -327,13 +327,13 @@ const d = {
 				       "hz": "144hz"
 				   },
 				   {
-					"user": "Blexood - Missing",
+					"user": "Blexood",
 					"link": " ",
 					"percent": 100,
 					"hz": "144hz"
 				},
 				{
-					"user": "Tfibb - Missing",
+					"user": "Tfibb",
 					"link": " ",
 					"percent": 100,
 					"hz": "144hz"
@@ -485,7 +485,7 @@ const d = {
 
 	],
 	"name": "Front Off Lead",
-	"author": "Farelow",
+	"author": "Farelow [LeifY]",
 	"more": "none",
 	"id": 19307,
 	"pass": "Free to copy",
@@ -503,13 +503,13 @@ const d = {
 	"hz": "60hz"
 },
 {
- "user": "Sledgehammer ",
+ "user": "Sledgehamme",
  "link": "https://www.youtube.com/watch?v=MutZ5721arM&feature=youtu.be",
  "percent": 100,
  "hz": "144hz"
 },
 {
- "user": "Bangaled ",
+ "user": "Bangaled",
  "link": "https://www.youtube.com/watch?v=kCUrv3UPWfM&feature=youtu.be",
  "percent": 100,
  "hz": "144hz"
@@ -521,7 +521,7 @@ const d = {
  "hz": "144hz"
 },				
 {
- "user": "TFIBB ",
+ "user": "TFIBB",
  "link": "https://www.youtube.com/watch?v=7Fl6T3Ncp7A",
  "percent": 100,
  "hz": "144hz"
@@ -532,7 +532,7 @@ const d = {
 
 	],
 	"name": "Level Very Demon",
-	"author": "XcreatorGoal",
+	"author": "XcreatorGoal [LeifY]",
 	"more": "none",
 	"id": 1822,
 	"pass": "Free to copy",
@@ -781,7 +781,7 @@ const d = {
 },
 	],
 	"name": "Gay",
-	"author": "XcreatorGoal",
+	"author": "XcreatorGoal [TheWylieMaster]",
 	"more": "none",
 	"id": 2423,
 	"pass": "Free to copy",
@@ -849,7 +849,7 @@ const d = {
 },
 	],
 	"name": "Disaster",
-	"author": "Michcio",
+	"author": "Michcio [LeifY]",
 	"more": "none",
 	"id": 20989,
 	"pass": "Free to copy",
@@ -922,7 +922,7 @@ const d = {
 	"hz": "144hz"
 },
 {
-	"user": "Bnagaled",
+	"user": "Bangaled",
 	"link": "https://www.youtube.com/watch?v=9JPZ_7Ayr5I&feature=youtu.be",
 	"percent": 100,
 	"hz": "144hz"
@@ -1399,7 +1399,7 @@ const d = {
 },
 ],
 "name": "Trolling Machine",
-"author": "XcreatorGoal",
+"author": "XcreatorGoal [LucasFLR]",
 "more": "none",
 "id": 2390,
 "pass": "Free to copy",
