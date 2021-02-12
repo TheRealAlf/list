@@ -84,6 +84,12 @@ const d = {
 			"percent": 100,
 			"hz": "144hz"
 		},
+				{
+			"user": "Mesoyid",
+			"link": "https://youtu.be/YIHe4jAX0iM",
+			"percent": 100,
+			"hz": "144hz"
+		},
 			],
 			"name": "Bruh Voretechks",
 			"author": "ItzUtopiastyles [Blexood]",
