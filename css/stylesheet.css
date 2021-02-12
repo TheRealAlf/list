@@ -151,7 +151,7 @@ A:hover {color:rgba(74, 0, 0,) !important; text-decoration:none; }
   left: 0;
   width: 100%;
   height: 100%;
-  background: white;
+  background: gray;
   z-index: 99;
 }
 #user-rank {
@@ -160,5 +160,5 @@ A:hover {color:rgba(74, 0, 0,) !important; text-decoration:none; }
 }
 
 Swal {
-  color: white;
+  color: gray;
 }
