@@ -526,7 +526,12 @@ const d = {
  "percent": 100,
  "hz": "144hz"
 },	
-
+{
+	"user": "Alf",
+	"link": "https://www.youtube.com/watch?v=LXiG6qSQE78",
+	"percent": 100,
+	"hz": "240hz"
+   },
 
 
 
@@ -567,6 +572,13 @@ const d = {
  "percent": 100,
  "hz": "144hz"
 },				
+{
+	"user": "Alf",
+	"link": "https://www.youtube.com/watch?v=BtLlL5qOLWw",
+	"percent": 100,
+	"hz": "240hz"
+   },
+
 
 	],
 	"name": "X Challenge",
@@ -1132,6 +1144,12 @@ const d = {
 	"percent": 100,
 	"hz": "144hz"
 },
+{
+	"user": "Alf",
+	"link": "https://www.youtube.com/watch?v=89_UJtlc62I",
+	"percent": 100,
+	"hz": "240hz"
+   },
 	],
 	"name": "RAXE",
 	"author": "rBlexood [LeifY]",
