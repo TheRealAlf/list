@@ -125,8 +125,8 @@ A:hover {color:rgba(74, 0, 0,) !important; text-decoration:none; }
   left: 0;
   width: 100%;
   height: 100%;
-  background: white;
-  color: white;
+  background: black;
+  color: gray;
   font-size: 3em;
 }
 .hacked{
